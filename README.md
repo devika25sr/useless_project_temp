@@ -1,35 +1,36 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+Aerovoid 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:[Team Undefined
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+ Members:
+ 1.Ashlin Theres James-Jyothi engineering college
+ 2.Devika Swarup - Jyothi engineering college
 
 ### Project Description
-[2-3 lines about what your project does]
+Aerovoid delivers the emotional experience of a fan without wasting a single watt.The fan that works on imagination and placebo.Whether you love the comforting hum of a table fan, the nostalgic creak of an old ceiling fan, or the futuristic whirl of a high-speed modern fan — Aerovoid delivers it all… virtually.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Millions love the sound of a fan but hate the messy hair, flying papers, and overcooled coffee caused by the breeze. Aerovoid delivers the soothing hum of airflow—without moving a single molecule of air.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Solving the world’s most overlooked crisis: giving you the breeze experience… without the breeze.We remove the air, but keep the atmosphere
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+- Languages used:HTML5
+                :CSS3
+                :JavaScript
+  -Frameworks used:
+- Libraries used:
+- Tools used:
 For Hardware:
 - [List main components]
 - [List specifications]
